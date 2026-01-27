@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes project from TOP
+This project helps to demonstrate my html skills. Useful for practice.
